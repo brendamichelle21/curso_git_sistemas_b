@@ -1,0 +1,23 @@
+Lista de compras para una carnita asada
+
+Requerimientos
+- carne de res
+- Longaniza
+- Chistorra
+- Barbacoa
+- Suadero
+- Chicharron
+- Carnitas
+- Maciza
+- Costilla
+- Tortillas
+- Queso
+- Salsa
+
+
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/brendamichelle21/curso_git_sistemas_b.git
+git push -u origin main
